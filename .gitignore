@@ -25,3 +25,13 @@
 /bin/
 /Debug/
 /Release/
+
+# Visual Studio specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code directory
+.vscode/
